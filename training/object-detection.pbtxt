@@ -1,0 +1,108 @@
+item {
+    id: 1
+    name: 'Adidas'
+}
+item {
+    id: 2
+    name: 'Apple'
+}
+item {
+    id: 3
+    name: 'BMW'
+}
+item {
+    id: 4
+    name: 'Citroen'
+}
+item {
+    id: 5
+    name: 'Cocacola'
+}
+item {
+    id: 6
+    name: 'DHL'
+}
+item {
+    id: 7
+    name: 'Fedex'
+}
+item {
+    id: 8
+    name: 'Ferrari'
+}
+item {
+    id: 9
+    name: 'Ford'
+}
+item {
+    id: 10
+    name: 'Google'
+}
+item {
+    id: 11
+    name: 'Heineken'
+}
+item {
+    id: 12
+    name: 'HP'
+}
+item {
+    id: 13
+    name: 'Intel'
+}
+item {
+    id: 14
+    name: 'McDonalds'
+}
+item {
+    id: 15
+    name: 'Mini'
+}
+item {
+    id: 16
+    name: 'Nbc'
+}
+item {
+    id: 17
+    name: 'Nike'
+}
+item {
+    id: 18
+    name: 'Pepsi'
+}
+item {
+    id: 19
+    name: 'Porsche'
+}
+item {
+    id: 20
+    name: 'Puma'
+}
+item {
+    id: 21
+    name: 'RedBull'
+}
+item {
+    id: 22
+    name: 'Sprite'
+}
+item {
+    id: 23
+    name: 'Starbucks'
+}
+item {
+    id: 24
+    name: 'Texaco'
+}
+item {
+    id: 25
+    name: 'Unicef'
+}
+item {
+    id: 26
+    name: 'Vodafone'
+}
+item {
+    id: 27
+    name: 'Yahoo'
+}
